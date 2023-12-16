@@ -30,7 +30,7 @@ This web application allows users to keep track of the books they own. Users can
 
 ## How to Run the Application
 
-1. Clone the repository: `git clone https://github.com/your-username/book-catalogue.git`
+1. Clone the repository: `git clone https://github.com/cajas1927/IS211-Course-Project.git`
 
 2. Install dependencies: pip install flask flask_sqlalchemy requests
 3. Run the application: python app.py`
